@@ -24,6 +24,14 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 * * * * * * * * *
 
+## 1. hodina (2026-09-17)
+
+<img align="right" src="zacatecnici-1-01-beebot-small.jpg" data-full="zacatecnici-1-01-beebot.jpg" style="height:85px" class="obrazek">
+<img align="right" src="zacatecnici-1-01-decko-small.jpg" data-full="zacatecnici-1-01-decko.jpg" style="height:85px" class="obrazek">
+
+* Seznámení s Beeboty - většina znala, takže jsme jen rychle prolétli základní ovládání
+* Test ovládání myši a klávesnice - [zvěřinec na déčku](https://decko.ceskatelevize.cz/tercin-zvireci-svet/zverinec)
+
 <div id="overlay" class="overlay hidden">
   <span id="prev" class="nav">&#9664;</span>
   <img id="overlay-img" src="" alt="Obrázek">

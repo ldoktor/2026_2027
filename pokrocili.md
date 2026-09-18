@@ -30,6 +30,13 @@ při studiu jakéhokoliv oboru.
 
 Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
+## 1. hodina (2026-09-17)
+
+<img align="right" src="pokrocili-1-01-code-org-small.jpg" data-full="pokrocili-1-01-code-org.jpg" style="height:85px" class="obrazek">
+
+* [Speedrun](https://www.youtube.com/watch?v=Gum4GI2Jr0s) [code.org](https://www.code.org)
+  * přihlásili jsme se do [code.org](https://www.code.org) a jako opáčko po prázdninách si děti zkusili projít co nejrychleji úvodní levely pokročilého kurzu, bylo to velmi těsné, všichni se dostali do 3 levelu, někteří jej již téměř dokončili.
+
 <div id="overlay" class="overlay hidden">
   <span id="prev" class="nav">&#9664;</span>
   <img id="overlay-img" src="" alt="Obrázek">
