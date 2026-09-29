@@ -37,6 +37,12 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 * [Speedrun](https://www.youtube.com/watch?v=Gum4GI2Jr0s) [code.org](https://www.code.org)
   * přihlásili jsme se do [code.org](https://www.code.org) a jako opáčko po prázdninách si děti zkusili projít co nejrychleji úvodní levely pokročilého kurzu, bylo to velmi těsné, všichni se dostali do 3 levelu, někteří jej již téměř dokončili.
 
+## 2. hodina (2026-09-24)
+
+* [Speedrun](https://www.youtube.com/watch?v=Gum4GI2Jr0s) [code.org](https://www.code.org)
+  * pokračování v rapidním průletu expresního kurzu na [code.org](https://www.code.org)
+  * žáci příjemně překvapili, dostali se až do 6 lekce i přes to že 5 a 6 lekce je úplně nová, odlišná od toho co viděli dříve a navíc není kompletně přeložená do češtiny.
+
 <div id="overlay" class="overlay hidden">
   <span id="prev" class="nav">&#9664;</span>
   <img id="overlay-img" src="" alt="Obrázek">

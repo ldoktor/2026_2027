@@ -32,6 +32,12 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 * Seznámení s Beeboty - většina znala, takže jsme jen rychle prolétli základní ovládání
 * Test ovládání myši a klávesnice - [zvěřinec na déčku](https://decko.ceskatelevize.cz/tercin-zvireci-svet/zverinec)
 
+## 2. hodina (2026-09-24)
+
+* [code.org](https://www.code.org)
+  * Přihlášení pomocí obrázkových hesel a pár lekcí bludiště se Scratem"
+* Seznámení s robůtkem Cubetto a pokračování s Beeboty
+
 <div id="overlay" class="overlay hidden">
   <span id="prev" class="nav">&#9664;</span>
   <img id="overlay-img" src="" alt="Obrázek">
