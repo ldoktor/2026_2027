@@ -38,6 +38,22 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
   * Přihlášení pomocí obrázkových hesel a pár lekcí bludiště se Scratem"
 * Seznámení s robůtkem Cubetto a pokračování s Beeboty
 
+## 3. hodina (2026-10-01)
+
+<img align="right" src="zacatecnici-1-03-beebot-small.jpg" data-full="zacatecnici-1-03-beebot.jpg" style="height:85px" class="obrazek">
+<img align="right" src="zacatecnici-1-03-beebot2-small.jpg" data-full="zacatecnici-1-03-beebot2.jpg" style="height:85px" class="obrazek">
+
+* Test "Světelného kříže" poháněného Micro:bitem, který plánujeme s pokročilými dále vylepšovat
+* Beebot
+  * Seznámení s podložkami pod Beeboty
+  * Pozice A3, B7, C1, ...
+  * Směřování N (North == Sever), S (South == Jih), W (West == Západ), E (East == Východ)
+  * Přesné umístění A3W, B7S, C1E, ...
+  * Pohyb po podložce
+* [code.org](https://www.code.org)
+  * Pokračování v bludištích
+
+
 <div id="overlay" class="overlay hidden">
   <span id="prev" class="nav">&#9664;</span>
   <img id="overlay-img" src="" alt="Obrázek">

@@ -43,6 +43,15 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
   * pokračování v rapidním průletu expresního kurzu na [code.org](https://www.code.org)
   * žáci příjemně překvapili, dostali se až do 6 lekce i přes to že 5 a 6 lekce je úplně nová, odlišná od toho co viděli dříve a navíc není kompletně přeložená do češtiny.
 
+## 3. hodina (2026-10-01)
+
+<img align="right" src="pokrocili-1-03-kriz-small.jpg" data-full="pokrocili-1-03-kriz.jpg" style="height:85px" class="obrazek">
+
+* [Micro:bit](../assets/microbit)
+  * Motivace ve formě "světelného kříže", který by měl být cílem letošního programování Microbitů
+  * Seznámení/připomenutí prostředí [makecode.microbit.org](https://makecode.microbit.org)
+
+
 <div id="overlay" class="overlay hidden">
   <span id="prev" class="nav">&#9664;</span>
   <img id="overlay-img" src="" alt="Obrázek">
