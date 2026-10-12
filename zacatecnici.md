@@ -53,6 +53,14 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 * [code.org](https://www.code.org)
   * Pokračování v bludištích
 
+## 4. hodina (2026-10-08)
+
+<img align="right" src="zacatecnici-1-04-code-org-small.jpg" data-full="zacatecnici-1-04-code-org.jpg" style="height:85px" class="obrazek">
+
+* [code.org](https://www.code.org)
+  * Pokračování v bludištích
+  * Ti co dokončili lekci zkoušeli [Šipkovanou](https://www.umimeinformatiku.cz/sipkovana) (malinko odlišné úlohy na programování "skřítka")
+
 
 <div id="overlay" class="overlay hidden">
   <span id="prev" class="nav">&#9664;</span>

@@ -51,6 +51,12 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
   * Motivace ve formě "světelného kříže", který by měl být cílem letošního programování Microbitů
   * Seznámení/připomenutí prostředí [makecode.microbit.org](https://makecode.microbit.org)
 
+## 4. hodina (2026-10-08)
+
+* [Micro:bit](../assets/microbit)
+  * Nahrání programu do microbitu
+  * Vyzkoušeli jsme jednoduché počítadlo dřepů
+
 
 <div id="overlay" class="overlay hidden">
   <span id="prev" class="nav">&#9664;</span>
