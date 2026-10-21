@@ -61,6 +61,12 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
   * Pokračování v bludištích
   * Ti co dokončili lekci zkoušeli [Šipkovanou](https://www.umimeinformatiku.cz/sipkovana) (malinko odlišné úlohy na programování "skřítka")
 
+## 5. hodina (2026-10-15)
+
+* Kouzelná hůlka - ukázka detekce "magie" pomocí "Micro:bitu"
+* Beebot
+  * Příběhy na podložkách (malá včelka se chtěla stát rytířem, cestovala do města, král jí dal za úkol porazit nestvůru v kopcích, tak šla nejprve za mluvícím stromem...)
+
 
 <div id="overlay" class="overlay hidden">
   <span id="prev" class="nav">&#9664;</span>

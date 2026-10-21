@@ -57,6 +57,16 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
   * Nahrání programu do microbitu
   * Vyzkoušeli jsme jednoduché počítadlo dřepů
 
+## 5. hodina (2026-10-15)
+
+<img align="right" src="pokrocili-1-05-microbit-small.jpg" data-full="pokrocili-1-05-microbit.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili-1-05-microbit2-small.jpg" data-full="pokrocili-1-05-microbit2.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili-1-05-microbit3-small.jpg" data-full="pokrocili-1-05-microbit3.jpg" style="height:85px" class="obrazek">
+
+* [Micro:bit](../assets/microbit)
+  * Nejprve zkázka detektoru "magie" a čarování s húlkou
+  * Připojení a ovládání LED pásku WS2812B (rozšíření neopixel)
+  * Malinko nám nespolupracovaly konektory, ale i to je součástí "debuggování"
 
 <div id="overlay" class="overlay hidden">
   <span id="prev" class="nav">&#9664;</span>
