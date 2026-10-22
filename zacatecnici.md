@@ -67,6 +67,16 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 * Beebot
   * Příběhy na podložkách (malá včelka se chtěla stát rytířem, cestovala do města, král jí dal za úkol porazit nestvůru v kopcích, tak šla nejprve za mluvícím stromem...)
 
+## 6. hodina (2026-10-22)
+
+<img align="right" src="zacatecnici-1-06-code-org-small.jpg" data-full="zacatecnici-1-06-code-org.jpg" style="height:85px" class="obrazek">
+<img align="right" src="zacatecnici-1-06-code-org2-small.jpg" data-full="zacatecnici-1-06-code-org2.jpg" style="height:85px" class="obrazek">
+
+* [code.org](https://www.code.org)
+  * Povídali jsme si o "cyklech" či "opakování" (loops)
+  * Aktivita "Getting loopy" - zábavná písnička využívající cykly
+  * Na počítači "cykly se sklízečem"
+
 
 <div id="overlay" class="overlay hidden">
   <span id="prev" class="nav">&#9664;</span>

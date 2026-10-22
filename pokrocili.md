@@ -68,6 +68,13 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
   * Připojení a ovládání LED pásku WS2812B (rozšíření neopixel)
   * Malinko nám nespolupracovaly konektory, ale i to je součástí "debuggování"
 
+## 6. hodina (2026-10-22)
+
+<img align="right" src="pokrocili-1-06-microbit-small.jpg" data-full="pokrocili-1-06-microbit.jpg" style="height:85px" class="obrazek">
+
+* [Micro:bit](../assets/microbit)
+  * Tvorba s "Wonder building kitem" dle návodů (v podstatě lego technic propojené s microbitem)
+
 <div id="overlay" class="overlay hidden">
   <span id="prev" class="nav">&#9664;</span>
   <img id="overlay-img" src="" alt="Obrázek">
