@@ -77,6 +77,12 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
   * Aktivita "Getting loopy" - zábavná písnička využívající cykly
   * Na počítači "cykly se sklízečem"
 
+## 7. hodina (2026-11-05)
+
+* [code.org](https://www.code.org)
+  * Pokračování v "cyklech"
+  * Dobrovolný domácí úkol - opravit pseudo-kód pro počítač pomocí cyklů [[pdf](../2020_2021/pokrocili-1-04-peceni.pdf), [odt](../2020_2021/pokrocili-1-04-peceni.odt)], případně pošlete fotky realizace (který návod vám vyhovoval nejvíce?)
+
 
 <div id="overlay" class="overlay hidden">
   <span id="prev" class="nav">&#9664;</span>
