@@ -84,6 +84,18 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
   * Dobrovolný domácí úkol - opravit pseudo-kód pro počítač pomocí cyklů [[pdf](../2020_2021/pokrocili-1-04-peceni.pdf), [odt](../2020_2021/pokrocili-1-04-peceni.odt)], případně pošlete fotky realizace (který návod vám vyhovoval nejvíce?)
 
 
+## 8. hodina (2026-11-12)
+
+<img align="right" src="zacatecnici-1-08-beebot-small.jpg" data-full="zacatecnici-1-08-beebot.jpg" style="height:85px" class="obrazek">
+<img align="right" src="zacatecnici-1-08-dort-small.jpg" data-full="zacatecnici-1-08-dort.jpg" style="height:85px" class="obrazek">
+<img align="right" src="zacatecnici-1-08-dort2-small.jpg" data-full="zacatecnici-1-08-dort2.jpg" style="height:85px" class="obrazek">
+<img align="right" src="zacatecnici-1-08-lfs-small.jpg" data-full="zacatecnici-1-08-lfs.jpg" style="height:85px" class="obrazek">
+
+* Beebot
+  * koordinace na jedné mapě (dojdi ale vyhni se)
+* Ovládání myši - děti zkoušely ovládat auto ve hře Live For Speed pomocí myši (není to tak jednoduché, jak by se mohlo zdát)
+
+
 <div id="overlay" class="overlay hidden">
   <span id="prev" class="nav">&#9664;</span>
   <img id="overlay-img" src="" alt="Obrázek">
