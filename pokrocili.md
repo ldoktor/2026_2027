@@ -87,6 +87,15 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 * [Micro:bit](../assets/microbit)
   * Tvorba s "Wonder building kitem" dle návodů (v podstatě lego technic propojené s microbitem)
 
+## 9. hodina (2026-11-19)
+
+<img align="right" src="pokrocili-1-09-microbit-small.jpg" data-full="pokrocili-1-09-microbit.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili-1-09-microbit2-small.jpg" data-full="pokrocili-1-09-microbit2.jpg" style="height:85px" class="obrazek">
+
+* [Micro:bit](../assets/microbit)
+  * Tvorba s "Wonder building kitem" dle návodů (v podstatě lego technic propojené s microbitem)
+
+
 <div id="overlay" class="overlay hidden">
   <span id="prev" class="nav">&#9664;</span>
   <img id="overlay-img" src="" alt="Obrázek">

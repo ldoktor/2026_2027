@@ -95,6 +95,11 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
   * koordinace na jedné mapě (dojdi ale vyhni se)
 * Ovládání myši - děti zkoušely ovládat auto ve hře Live For Speed pomocí myši (není to tak jednoduché, jak by se mohlo zdát)
 
+## 9. hodina (2026-11-19)
+
+* Beebot
+  * koordinace na jedné mapě (dojdi ale vyhni se)
+* Ovládání myši - děti zkoušely ovládat auto ve hře Live For Speed pomocí myši (není to tak jednoduché, jak by se mohlo zdát)
 
 <div id="overlay" class="overlay hidden">
   <span id="prev" class="nav">&#9664;</span>
